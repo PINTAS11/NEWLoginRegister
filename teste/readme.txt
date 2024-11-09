@@ -1,0 +1,1 @@
+teste com git, criaçao de uma pasta com index.html e ficheiro readme.txt
